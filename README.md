@@ -1,8 +1,7 @@
-# React + Vite
+# Tic Tac Toe - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Bienvenue dans mon premier projet développé avec React !
 
-Currently, two official plugins are available:
+### Ce projet est une application simple qui démontre les concepts de base de React tels que les composants, l'tat et les props.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="public/TicTacToe.png" width="100%" >
